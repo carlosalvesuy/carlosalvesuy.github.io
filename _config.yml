@@ -10,7 +10,7 @@ title: Carlos Alves
 email: carlosalves90@gmail.com
 description: Diary of a Geek
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://carlosalvesuy.github.io" # the base hostname & protocol for your site
 twitter_username: carlosalvesuy
 github_username:  carlosalvesuy
 paginate: 5
