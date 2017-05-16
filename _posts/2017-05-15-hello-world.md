@@ -4,6 +4,7 @@ title:  "Hello World!"
 date:   2017-05-15 18:05:25 -0300
 categories: hello world
 author: "Carlos Alves"
+comments: true
 ---
 
 Hello World! From my new blog.

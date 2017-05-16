@@ -4,6 +4,7 @@ title:  "Failover Mode Between Ethernet and Wireless Interfaces on FreeBSD 11"
 date:   2017-05-15 18:29:15 -0300
 categories: FreeBSD
 author: "Carlos Alves"
+comments: true
 ---
 
 I want to use my laptop at home without worrying about if I'm connected through
